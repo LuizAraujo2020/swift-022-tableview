@@ -16,6 +16,7 @@
 		6F6AE93F26D671D000F1F304 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F6AE93D26D671D000F1F304 /* LaunchScreen.storyboard */; };
 		6F6AE94A26D671D000F1F304 /* swift_022_tableviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F6AE94926D671D000F1F304 /* swift_022_tableviewTests.swift */; };
 		6F6AE95426D671D100F1F304 /* swift_022_tableviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F6AE95326D671D100F1F304 /* swift_022_tableviewUITests.swift */; };
+		6FBE146F26D687A4000894CC /* MessageListDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FBE146E26D687A4000894CC /* MessageListDataSource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6F6AE94926D671D000F1F304 /* swift_022_tableviewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_022_tableviewTests.swift; sourceTree = "<group>"; };
 		6F6AE94F26D671D100F1F304 /* swift-022-tableviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift-022-tableviewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F6AE95326D671D100F1F304 /* swift_022_tableviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_022_tableviewUITests.swift; sourceTree = "<group>"; };
+		6FBE146E26D687A4000894CC /* MessageListDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageListDataSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				6F6AE93D26D671D000F1F304 /* LaunchScreen.storyboard */,
 				6F6AE94026D671D000F1F304 /* Info.plist */,
 				6F6AE93826D671CE00F1F304 /* Data.xcdatamodeld */,
+				6FBE146E26D687A4000894CC /* MessageListDataSource.swift */,
 			);
 			path = "swift-022-tableview";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6F6AE93A26D671CE00F1F304 /* Data.xcdatamodeld in Sources */,
+				6FBE146F26D687A4000894CC /* MessageListDataSource.swift in Sources */,
 				6F6AE93426D671CE00F1F304 /* ViewController.swift in Sources */,
 				6F6AE93026D671CE00F1F304 /* AppDelegate.swift in Sources */,
 				6F6AE93226D671CE00F1F304 /* SceneDelegate.swift in Sources */,
