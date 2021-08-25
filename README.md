@@ -1,14 +1,10 @@
-### Swift 000
+### Swift 022
 
-# Template
-## Tutorial: template placeholder
+# TableView - Generic Dequeu
 
-
-##Leaning goals:
-- [x] Create a button
-- [x] Create an alert on the click of the button
-- [ ] Basic of MVC
-- [ ] Autolayout
+## Goals:
+- [ ] Create a generic class that can render any model;
+- [ ] Create  custom cell
 - [ ] 
 - [ ] 
 - [ ] 
